@@ -1,0 +1,11 @@
+.hover-blue:hover{
+    border:1px solid rgba(0, 0, 0,0.5);
+}
+
+.font {
+    font-family: 'noto sans' !important;
+}
+
+.text-color{
+    color:black !important;
+}

@@ -1,0 +1,14 @@
+.color {
+    background: linear-gradient(to right, rgba(255, 242, 242, 0.2),rgba(244, 238, 245, 0.2));
+}
+.hover-blue:hover{
+    border:1px solid rgba(0, 0, 0,0.5);
+}
+
+.font {
+    font-family: 'noto sans' !important;
+}
+
+.text-color{
+    color:black !important;
+}
